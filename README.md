@@ -6,13 +6,6 @@
   <a href="https://www.linkedin.com/in/sanket-kharat-035b63260/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/sanketkharat28">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
-<div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanketkharat28&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h1 align="center">
@@ -72,3 +65,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"  title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sanketkharat28&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanketkharat28&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

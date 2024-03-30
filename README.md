@@ -23,7 +23,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m passionate about Software development.
+- :telescope: I’m passionate about Software Development.
 
 - :seedling: Exploring Mern stack.
 

@@ -27,7 +27,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring Mern stack.
 
-- :zap: In my free time, I solve problems on leetcode and read tech articles.
+- :zap: In my free time, I solve problems on CodeStudio and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-kharat-035b63260/)
 

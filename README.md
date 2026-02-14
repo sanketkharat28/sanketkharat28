@@ -7,7 +7,7 @@ Full-Stack Web Developer | React • TypeScript • Node.js
 I’m a Full-Stack Developer building modern web applications with React, TypeScript, and Node.js. I enjoy breaking down complex problems and have solved 500+ DSA problems, strengthening my focus on performance and clean architecture.
 
 * 🌍  I'm based in Pune, India
-* 🖥️  See my portfolio at [http://portfolio-1b9ky7yst-sanketkharat28-gmailcoms-projects.vercel.app/](http://portfolio-1b9ky7yst-sanketkharat28-gmailcoms-projects.vercel.app/ )
+* 🖥️  See my portfolio at [https://portfolio-m5yf.vercel.app](https://portfolio-m5yf.vercel.app)
 * ✉️  You can contact me at [sanketkharat28@gmail.com](mailto:sanketkharat28@gmail.com)
 * 🚀  I'm currently working on [AI Resume Analyser](http://github.com/sanketkharat28/ai_resume_analyzer)
 * 🧠  I'm currently learning Advanced TypeScript, System Design
